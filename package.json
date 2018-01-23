@@ -19,5 +19,5 @@
   "jest": {
     "preset": "react-native"
   },
-  "main": "./src/Main"
+  "main": "./src/Main/index.js"
 }
